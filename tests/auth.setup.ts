@@ -17,7 +17,7 @@ setup('authenticate', async ({ page }) => {
   await page.getByRole('button', { name: 'Sign Up' }).click();
 
   await expect(page.getByTestId('toast')).toContainText(
-    'Account created successfully!',
+    'Account Ayt nod paa use mad!',
   );
 
   await page.context().storageState({ path: authFile });
