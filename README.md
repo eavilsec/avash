@@ -1,5 +1,7 @@
-<a href="https://chat.vercel.ai/">
-  <img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
+
+  ![avash](https://github.com/user-attachments/assets/c10a2540-feaa-4715-a115-0a8a5ea3b4e5)
+
+
   <h1 align="center">AVASH - AN AI Chatbot</h1>
 </a>
 
